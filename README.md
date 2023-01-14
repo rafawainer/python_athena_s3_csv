@@ -2,7 +2,7 @@
 Lambda em Python que extrai uma query do Athena, gera um arquivo CSV e guarda esse arquivo em um S3 Bucket.
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-![PyCharm](![https://www.jetbrains.com/ru-ru/pycharm/](https://img.shields.io/badge/pycharm-brightgreen.svg))
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 
 ![graphic_usage](https://github-readme-stats.vercel.app/api/top-langs/?username=rafawainer)
